@@ -3,9 +3,8 @@
 **`Desenvolvedor FullStack`**
 
 Meu nome é Gustavo Henrique Rodrigues da Silva, tenho 21 anos e sou natural de São Paulo. Atualmente, estou cursando o 4º semestre de Análise e Desenvolvimento de Sistemas (ADS).
-Atualmente, estou focado no aprimoramento das minhas habilidades em HTML, CSS e JavaScript, construindo uma base sólida no desenvolvimento web. Meu objetivo é me tornar um desenvolvedor back-end, aprofundando meus conhecimentos em lógica de programação, APIs e integração com bancos de dados, buscando evoluir constantemente como profissional na área de tecnologia.
+Atualmente, estou focado no aprimoramento das minhas habilidades em HTML, CSS e JavaScript, construindo uma base sólida no desenvolvimento web.
 
-👨‍💻 Atualmente estou explorando: 🌐HTML ,  🎨CSS ,  ⚡JavaScript ,  🐬SQL e  ⚛️React.   
 
 <p align="left">
 
@@ -13,7 +12,19 @@ Atualmente, estou focado no aprimoramento das minhas habilidades em HTML, CSS e 
   <img 
     alt="followers" 
     title="Me siga no GitHub" 
-    src="https://custom-icon-badges.demolab.com/github/followers/Guga951?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"/>
+    src="https://custom-icon-badges.demolab.com/github/followers/Guga951?color=2ea44f&labelColor=1f6f3d&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/gustavo-henriquetg/" target="_blank">
+  <img 
+    alt="LinkedIn"
+    title="Meu LinkedIn"
+    src="https://custom-icon-badges.demolab.com/badge/LinkedIn-40-%230A66C2?logo=linkedin&logoColor=white&style=for-the-badge&labelColor=0A66C2"
+</a>
+<a href="https://github.com/Guga951?tab=repositories&sort=stargazers">
+  <img 
+    alt="stars" 
+    title="Total de estrelas" 
+     src="https://custom-icon-badges.demolab.com/github/stars/AndHenDS?color=FF8C00&style=for-the-badge&labelColor=E67E00&logo=star&label=estrelas"/>
 </a>
 <a href="mailto:gustavo.henriquerodrigueshr@gmail.com">
   <img 
@@ -21,23 +32,13 @@ Atualmente, estou focado no aprimoramento das minhas habilidades em HTML, CSS e 
     title="Enviar email"
     src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836"/>
 </a>
-<a href="https://github.com/Guga951?tab=repositories&sort=stargazers">
-  <img 
-    alt="stars" 
-    title="Total de estrelas" 
-    src="https://custom-icon-badges.demolab.com/github/stars/Guga951?color=55960c&labelColor=488207&style=for-the-badge&logo=star&label=Estrelas"/>
-</a>
-
-
-<a href="https://www.linkedin.com/in/gustavo-henriquetg/" target="_blank">
-  <img 
-    alt="LinkedIn"
-    title="Meu LinkedIn"
-    src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/>
-</a>
 
 
 
+
+
+
+---
 
 </p>
 
@@ -85,11 +86,11 @@ Atualmente, estou focado no aprimoramento das minhas habilidades em HTML, CSS e 
 />
 <img 
     align="left" 
-    alt="Next.js" 
-    title="Next.js"
+    alt="MySQL" 
+    title="MySQL"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"         
 />
 
 <img 
@@ -118,16 +119,15 @@ Atualmente, estou focado no aprimoramento das minhas habilidades em HTML, CSS e 
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="180" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Guga951&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=Guga951&show_icons=true&theme=react&include_all_commits=true&locale=pt-br" 
   />
 
   <img 
-    align="left" 
-    alt="Top Langs" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guga951&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    align="left"
+    alt="Top Languages"
+    height="150"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Guga951&layout=compact&custom_title=Tecnologias&langs_count=3&theme=react"
   />
-
 </p>
