@@ -119,7 +119,7 @@ Atualmente, estou focado no aprimoramento das minhas habilidades em HTML, CSS e 
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="1800" 
+    height="180" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats-sigma-five.vercel.app/api?username=Guga951&show_icons=true&theme=react&include_all_commits=true&locale=pt-br" 
   />
