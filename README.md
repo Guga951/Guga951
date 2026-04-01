@@ -28,7 +28,7 @@ Atualmente, estou focado no aprimoramento das minhas habilidades em HTML, CSS e 
     src="https://custom-icon-badges.demolab.com/github/stars/Guga951?color=55960c&labelColor=488207&style=for-the-badge&logo=star&label=Estrelas"/>
 </a>
 
-<!-- LINKEDIN (AZUL PADRÃO) -->
+
 <a href="https://www.linkedin.com/in/gustavo-henriquetg/" target="_blank">
   <img 
     alt="LinkedIn"
@@ -36,7 +36,7 @@ Atualmente, estou focado no aprimoramento das minhas habilidades em HTML, CSS e 
     src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/>
 </a>
 
-<!-- GMAIL (VERMELHO PADRÃO) -->
+
 
 
 </p>
