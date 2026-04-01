@@ -1,11 +1,11 @@
-## Gustavo Henrique👋
+## 𝙶𝚞𝚜𝚝𝚊𝚟𝚘 𝙷𝚎𝚗𝚛𝚒𝚚𝚞𝚎👋
 
 **`Desenvolvedor FullStack`**
 
 Meu nome é Gustavo Henrique Rodrigues da Silva, tenho 21 anos e sou natural de São Paulo. Atualmente, estou cursando o 4º semestre de Análise e Desenvolvimento de Sistemas (ADS).
 Atualmente, estou focado no aprimoramento das minhas habilidades em HTML, CSS e JavaScript, construindo uma base sólida no desenvolvimento web. Meu objetivo é me tornar um desenvolvedor back-end, aprofundando meus conhecimentos em lógica de programação, APIs e integração com bancos de dados, buscando evoluir constantemente como profissional na área de tecnologia.
 
-📊 Atualmente explorando: 🌐HTML, 🎨CSS, ⚡JavaScript, 🐬SQL e ⚛️React.   
+👨‍💻 Atualmente estou explorando: 🌐HTML ,  🎨CSS ,  ⚡JavaScript ,  🐬SQL e  ⚛️React.   
 
 <p align="left">
 
