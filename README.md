@@ -18,7 +18,7 @@ Atualmente, estou focado no aprimoramento das minhas habilidades em HTML, CSS e 
   <img 
     alt="LinkedIn"
     title="Meu LinkedIn"
-    src="https://custom-icon-badges.demolab.com/badge/LinkedIn-40-%230A66C2?logo=linkedin&logoColor=white&style=for-the-badge&labelColor=0A66C2"
+    src="https://custom-icon-badges.demolab.com/badge/LinkedIn-42-%230A66C2?logo=linkedin&logoColor=white&style=for-the-badge&labelColor=0A66C2"
 </a>
 <a href="https://github.com/Guga951?tab=repositories&sort=stargazers">
   <img 
