@@ -131,3 +131,10 @@ Atualmente, estou focado no aprimoramento das minhas habilidades em HTML, CSS e 
     src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Guga951&layout=compact&custom_title=Tecnologias&langs_count=3&theme=react"
   />
 </p>
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Guga951/Guga951/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Guga951/Guga951/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Guga951/Guga951/output/pacman-contribution-graph.svg">
+</picture>
