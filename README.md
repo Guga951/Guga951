@@ -133,6 +133,8 @@ Atualmente, estou focado no aprimoramento das minhas habilidades em HTML, CSS e 
 </p>
 
 
+
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Guga951/Guga951/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Guga951/Guga951/output/pacman-contribution-graph.svg">
